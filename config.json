@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterealculate",
+        "uuid": 14008740,
+        "checksum": "0ale9g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
